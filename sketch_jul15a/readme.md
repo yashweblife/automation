@@ -33,7 +33,7 @@ control the output.
 - server
 
 
-##Procedure
+## Procedure
 Before we begin, we will have to configure the ARDUINO IDE.
 Go to the files option and look for preference. In there, look for additional Board Manager URLS and paste the code below.
 Now look for the tools option anf hit Board, in here, click the board manager option,
@@ -46,4 +46,5 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 Connect the nodemcu to a computer.
 Go to tools and select the port that is assigned to the nodemcu.
 after the code has been written onto the IDE, hit `Ctrl+U`. This will upload the code onto the nodemcu.
+
 
